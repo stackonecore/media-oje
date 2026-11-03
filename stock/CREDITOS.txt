@@ -1,0 +1,13 @@
+Clips de stock de Pexels (Licencia Pexels: uso gratuito, también comercial, sin atribución obligatoria).
+Todos verticales 9:16, 10-20 s. 1080x1920 salvo 01 (720x1280) y 05 (1080x2048).
+
+01-barra-cerveza.mp4      | https://www.pexels.com/video/5847848/  | Pavel Danilyuk          | Bartender Pouring Beer into Beer Glasses (18 s)
+02-bar-lleno.mp4          | https://www.pexels.com/video/6174525/  | RDNE Stock project      | People Talking in a Bar (13 s)
+03-pago-datafono.mp4      | https://www.pexels.com/video/6602242/  | Pavel Danilyuk          | Woman Doing Cashless Payment (11 s)
+04-tpv-tablet.mp4         | https://www.pexels.com/video/6602247/  | Pavel Danilyuk          | Female Worker Using a Tablet at the Counter (13 s)
+05-cocina-prisa.mp4       | https://www.pexels.com/video/4253353/  | cottonbro studio        | Two men in aprons are cooking in a kitchen (15 s, 1080x2048)
+06-cena-brindis.mp4       | https://www.pexels.com/video/3256771/  | fauxels                 | People Having A Celebration And Making A Toast (19 s)
+07-cierre-recogiendo.mp4  | https://www.pexels.com/video/6211511/  | Antonius Ferret         | Person Cleaning Table at Restaurant (15 s)
+08-contar-caja.mp4        | https://www.pexels.com/video/13736697/ | Mizuno K                | A Woman Counting Money (10 s)
+09-pagar-cuenta.mp4       | https://www.pexels.com/video/7669652/  | Ivan S                  | A Person Paying Bill Using His Card (12 s)
+10-camarero-platos.mp4    | https://www.pexels.com/video/9732958/  | KoolShooters            | People Carrying Plates (20 s)
